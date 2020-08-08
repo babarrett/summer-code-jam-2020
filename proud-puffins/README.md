@@ -7,8 +7,8 @@ We be Puffins, and we be proud!
 * ergomacros
 * ImaMoonky
 * PDXCardinal78
-* XPOjabar
 * rr
+* XPOjabar
 
 
 ## Dev stuff
