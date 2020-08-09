@@ -11,6 +11,12 @@ We be Puffins, and we be proud!
 * rr
 
 
+## Loading the App in Windows
+- Create a virtual environment using which ever tool you like to use.
+- Start virtual environment
+- Open terminal and cd into the djangoProject file, this is the location of the manage.py file
+- Run ```python puffin_setup.py``` (this will load all needed packages, load the data and start the server.)
+
 ## Dev stuff
 
 ### [Populating profiles database](https://docs.djangoproject.com/en/3.0/howto/initial-data/)
